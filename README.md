@@ -2,7 +2,7 @@
 
 ## Description:
 
-**An online platform-application designed to provide activities for children. Parents-Clients can crete an account in order borwse activities for their children or buy tickets for these activities. Providers can create a provider account and create activity ads and sell tickets. A secure transactional system is used for buying and selling tickets. Moreover the a complete search system is designed used elastic search in order to much the best results for users search. Passwords are encrypted to guarantee security and https is used. Also a binary dependancy file has been developed to add watermarks to activity photos. The administrator can validate new users or delete existing users and has acceess to statistics of the application for example about users, tickets sold, profit etc. Below are some photos of the deployed app showing pages about activities and sign up/in forms:  **
+** An online platform-application designed to provide activities for children. Parents-Clients can crete an account in order borwse activities for their children or buy tickets for these activities. Providers can create a provider account and create activity ads and sell tickets. A secure transactional system is used for buying and selling tickets. Moreover the a complete search system is designed used elastic search in order to much the best results for users search. Passwords are encrypted to guarantee security and https is used. Also a binary dependancy file has been developed to add watermarks to activity photos. The administrator can validate new users or delete existing users and has acceess to statistics of the application for example about users, tickets sold, profit etc. Below are some photos of the deployed app showing pages about activities and sign up/in forms:  **
 
 **Forms:**
 
@@ -18,7 +18,7 @@ ______________________________________
 ## Members:
 
 
-| &ensp; _**SURNAME**_ &ensp; &ensp; &ensp; &ensp; _**NAME**_ &ensp; &ensp; &ensp; &ensp; _**ΑΜ**_ &ensp; &ensp; &ensp; &ensp; _**Mail**_   
+| &ensp; _**SURNAME**_ &ensp; &ensp; &ensp; &ensp; _**NAME**_ &ensp; &ensp; &ensp; &ensp; _**Mail**_   
 -
 
 <br/>
