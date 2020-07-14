@@ -1,6 +1,6 @@
 {
     "require": {
-        "phpmailer/phpmailer": "^6.0",
+        "phpmailer/phpmailer": "6.1.6",
         "mpdf/mpdf": "^7.0",
         "phing/phing": "3.0.x-dev",
         "elasticsearch/elasticsearch": "~6.0"
